@@ -15,10 +15,10 @@
     "require": {
         "php": ">=5.3.3",
         "symfony-cmf/routing": "~1.1.0-dev",
-        "symfony/framework-bundle": "~2.2"
+        "symfony/framework-bundle": "~2.1"
     },
     "require-dev": {
-        "symfony/class-loader": "~2.2",
+        "symfony/class-loader": "~2.1",
         "symfony/yaml": "~2.1",
         "symfony/form": "~2.1",
         "symfony/finder": "~2.1",
@@ -28,7 +28,7 @@
         "doctrine/phpcr-odm": "1.0.*",
         "doctrine/phpcr-bundle": "1.0.*",
         "sonata-project/doctrine-phpcr-admin-bundle": "1.0.*",
-        "symfony/twig-bundle": "~2.2"
+        "symfony/twig-bundle": "~2.1"
     },
     "suggest": {
         "doctrine/phpcr-odm": "To enable support for the PHPCR ODM documents",
