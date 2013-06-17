@@ -14,7 +14,7 @@
     "minimum-stability": "dev",
     "require": {
         "php": ">=5.3.3",
-        "symfony-cmf/routing": "1.0.*",
+        "symfony-cmf/routing": "0.1.*",
         "symfony/framework-bundle": "2.1.*",
         "symfony/monolog-bundle": ">=2.1,<3"
     },
