@@ -39,7 +39,7 @@
     "target-dir": "Symfony/Cmf/Bundle/RoutingExtraBundle",
     "extra": {
         "branch-alias": {
-            "dev-master": "1.0-dev"
+            "dev-le-phare": "1.0-dev"
         }
     }
 }
